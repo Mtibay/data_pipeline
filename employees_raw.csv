@@ -1,0 +1,102 @@
+EMPLOYEE_ID,FIRST_NAME,LAST_NAME,EMAIL,DEPARTMENT_ID,JOB_TITLE,SALARY,HIRE_DATE,LOCATION,CREATED_AT
+1,Robert,Johnson,user1@example.com,32,Software Engineer,81068.82,2023-11-08,Seattle,2026-01-01 09:01:00
+2,Michael,Garcia,user2@example.com,14,Data Analyst,60827.9,2021-01-21,Chicago,2026-01-01 09:02:00
+3,Emily,Davis,user3@example.com,26,Project Manager,113829.43,2024-05-19,Chicago,2026-01-01 09:03:00
+4,Robert,Miller,user4@example.com,38,Project Manager,86486.64,2021-04-20,Seattle,2026-01-01 09:04:00
+5,Lisa,Smith,user5@example.com,44,Data Analyst,97241.61,2021-01-31,Seattle,2026-01-01 09:05:00
+6,Robert,Garcia,user6@example.com,17,HR Specialist,61304.76,2023-07-01,Dallas,2026-01-01 09:06:00
+7,Emily,Williams,user7@example.com,21,Project Manager,85086.91,2021-04-01,Chicago,2026-01-01 09:07:00
+8,James,Miller,user8@example.com,19,Project Manager,112913.19,2020-01-03,New York,2026-01-01 09:08:00
+9,Robert,Garcia,user9@example.com,32,Software Engineer,111231.27,2024-08-21,Dallas,2026-01-01 09:09:00
+10,Jane,Davis,user10@example.com,17,Data Analyst,114981.23,2021-09-03,Dallas,2026-01-01 09:10:00
+11,John,Davis,user11@example.com,15,Data Analyst,74353.06,2019-02-11,Chicago,2026-01-01 09:11:00
+12,Michael,Jones,user12@example.com,11,HR Specialist,83654.42,2021-11-12,New York,2026-01-01 09:12:00
+13,Lisa,Williams,user13@example.com,34,Project Manager,119166.35,2020-03-11,Dallas,2026-01-01 09:13:00
+14,David,Jones,user14@example.com,30,Software Engineer,113072.53,2020-04-23,Dallas,2026-01-01 09:14:00
+15,Maria,Davis,user15@example.com,33,Data Analyst,82207.38,2022-08-12,New York,2026-01-01 09:15:00
+16,David,Davis,user16@example.com,17,HR Specialist,106699.84,2023-07-31,Seattle,2026-01-01 09:16:00
+17,Michael,Brown,user17@example.com,16,Software Engineer,67152.23,2024-01-27,New York,2026-01-01 09:17:00
+18,Emily,Brown,user18@example.com,34,Data Analyst,119051.06,2020-08-26,Seattle,2026-01-01 09:18:00
+19,Michael,Brown,user19@example.com,13,Software Engineer,60784.15,2019-03-27,Seattle,2026-01-01 09:19:00
+20,Maria,Brown,user20@example.com,44,Project Manager,56770.5,2021-01-12,Seattle,2026-01-01 09:20:00
+21,David,Smith,user21@example.com,39,HR Specialist,106589.35,2020-11-20,Chicago,2026-01-01 09:21:00
+22,Robert,Jones,user22@example.com,44,Data Analyst,115031.6,2025-01-04,Seattle,2026-01-01 09:22:00
+23,John,Davis,user23@example.com,44,Data Analyst,83135.46,2020-05-09,Chicago,2026-01-01 09:23:00
+24,Maria,Jones,user24@example.com,13,HR Specialist,96574.17,2019-07-18,New York,2026-01-01 09:24:00
+25,David,Jones,user25@example.com,27,Project Manager,66458.61,2024-02-29,Dallas,2026-01-01 09:25:00
+26,John,Jones,user26@example.com,15,Software Engineer,108504.16,2022-08-14,Seattle,2026-01-01 09:26:00
+27,Robert,Garcia,user27@example.com,25,Data Analyst,64847.14,2020-03-13,New York,2026-01-01 09:27:00
+28,Michael,Smith,user28@example.com,45,Data Analyst,94637.2,2022-04-16,Seattle,2026-01-01 09:28:00
+29,Lisa,Smith,user29@example.com,29,Data Analyst,108374.66,2023-08-04,Dallas,2026-01-01 09:29:00
+30,Maria,Miller,user30@example.com,23,Software Engineer,74870.45,2021-06-03,Chicago,2026-01-01 09:30:00
+31,Michael,Smith,user31@example.com,38,Data Analyst,61499.59,2019-07-16,New York,2026-01-01 09:31:00
+32,Lisa,Brown,user32@example.com,25,HR Specialist,56034.76,2023-01-29,New York,2026-01-01 09:32:00
+33,David,Smith,user33@example.com,29,Software Engineer,96898.43,2024-08-15,Seattle,2026-01-01 09:33:00
+34,Sarah,Johnson,user34@example.com,25,Data Analyst,74041.03,2024-09-13,New York,2026-01-01 09:34:00
+35,Emily,Williams,user35@example.com,12,Data Analyst,114200.27,2022-08-01,Dallas,2026-01-01 09:35:00
+36,Robert,Johnson,user36@example.com,17,Data Analyst,107410.86,2022-02-22,Dallas,2026-01-01 09:36:00
+37,James,Miller,user37@example.com,34,Software Engineer,94087.66,2024-11-02,New York,2026-01-01 09:37:00
+38,Emily,Jones,user38@example.com,38,Software Engineer,117905.01,2022-10-21,Seattle,2026-01-01 09:38:00
+39,David,Williams,user39@example.com,38,Software Engineer,94559.08,2022-06-05,Dallas,2026-01-01 09:39:00
+40,Michael,Miller,user40@example.com,21,Project Manager,114801.52,2021-08-14,Chicago,2026-01-01 09:40:00
+41,Lisa,Brown,user41@example.com,10,HR Specialist,116920.63,2021-11-08,New York,2026-01-01 09:41:00
+42,Maria,Williams,user42@example.com,20,Software Engineer,114829.81,2020-05-31,New York,2026-01-01 09:42:00
+43,Maria,Williams,user43@example.com,18,Software Engineer,50146.02,2019-07-02,Seattle,2026-01-01 09:43:00
+44,David,Jones,user44@example.com,21,HR Specialist,75032.38,2022-08-12,Chicago,2026-01-01 09:44:00
+45,Sarah,Smith,user45@example.com,42,Software Engineer,83920.73,2021-07-30,Chicago,2026-01-01 09:45:00
+46,David,Miller,user46@example.com,12,HR Specialist,52024.22,2021-01-29,New York,2026-01-01 09:46:00
+47,Lisa,Jones,user47@example.com,20,Software Engineer,55501.27,2023-01-20,New York,2026-01-01 09:47:00
+48,Maria,Brown,user48@example.com,44,Project Manager,53957.92,2024-06-02,Seattle,2026-01-01 09:48:00
+49,John,Miller,user49@example.com,35,Software Engineer,119659.81,2019-01-20,Seattle,2026-01-01 09:49:00
+50,Sarah,Smith,user50@example.com,44,Data Analyst,95115.51,2023-02-01,Chicago,2026-01-01 09:50:00
+51,Lisa,Garcia,user51@example.com,36,Data Analyst,104231.25,2024-05-06,Dallas,2026-01-01 09:51:00
+52,Jane,Brown,user52@example.com,34,Data Analyst,65690.09,2023-09-10,Chicago,2026-01-01 09:52:00
+53,Emily,Davis,user53@example.com,32,Data Analyst,107771.41,2024-12-28,Seattle,2026-01-01 09:53:00
+54,James,Garcia,user54@example.com,17,Project Manager,105547.1,2022-11-19,Seattle,2026-01-01 09:54:00
+55,David,Smith,user55@example.com,13,Software Engineer,102360.72,2023-11-26,New York,2026-01-01 09:55:00
+56,Maria,Johnson,user56@example.com,19,Data Analyst,67309.35,2021-01-17,Chicago,2026-01-01 09:56:00
+57,Robert,Jones,user57@example.com,36,Project Manager,99374.05,2021-04-24,Dallas,2026-01-01 09:57:00
+58,David,Miller,user58@example.com,30,Software Engineer,85806.92,2023-04-02,Seattle,2026-01-01 09:58:00
+59,Jane,Williams,user59@example.com,38,Data Analyst,111520.71,2021-06-23,New York,2026-01-01 09:59:00
+60,Lisa,Davis,user60@example.com,30,Software Engineer,94783.16,2021-05-03,New York,2026-01-01 10:00:00
+61,Jane,Garcia,user61@example.com,45,HR Specialist,73624.83,2021-12-25,Seattle,2026-01-01 10:01:00
+62,John,Johnson,user62@example.com,25,Software Engineer,105515.17,2022-05-28,Dallas,2026-01-01 10:02:00
+63,James,Jones,user63@example.com,12,Data Analyst,98192.71,2023-09-20,New York,2026-01-01 10:03:00
+64,Robert,Johnson,user64@example.com,31,Software Engineer,101038.07,2019-11-07,Seattle,2026-01-01 10:04:00
+65,Lisa,Jones,user65@example.com,41,Project Manager,119418.03,2023-09-13,Dallas,2026-01-01 10:05:00
+66,Lisa,Miller,user66@example.com,46,Software Engineer,72432.75,2019-04-20,Seattle,2026-01-01 10:06:00
+67,Michael,Johnson,user67@example.com,20,HR Specialist,72220.6,2020-11-01,Chicago,2026-01-01 10:07:00
+68,James,Davis,user68@example.com,14,HR Specialist,110844.9,2019-01-22,Chicago,2026-01-01 10:08:00
+69,Emily,Smith,user69@example.com,45,Data Analyst,85922.03,2021-11-12,Dallas,2026-01-01 10:09:00
+70,Sarah,Miller,user70@example.com,48,Project Manager,93227.73,2019-07-18,New York,2026-01-01 10:10:00
+71,James,Garcia,user71@example.com,15,Software Engineer,68506.14,2019-02-24,Seattle,2026-01-01 10:11:00
+72,John,Brown,user72@example.com,28,Project Manager,60817.81,2021-12-15,Dallas,2026-01-01 10:12:00
+73,James,Smith,user73@example.com,26,Data Analyst,108314.31,2024-07-25,Chicago,2026-01-01 10:13:00
+74,John,Brown,user74@example.com,49,HR Specialist,96674.3,2020-11-23,New York,2026-01-01 10:14:00
+75,Jane,Jones,user75@example.com,34,HR Specialist,85028.34,2021-05-11,New York,2026-01-01 10:15:00
+76,Robert,Miller,user76@example.com,20,Project Manager,100557.45,2023-03-04,Seattle,2026-01-01 10:16:00
+77,Sarah,Davis,user77@example.com,13,Data Analyst,56186.14,2020-01-18,Dallas,2026-01-01 10:17:00
+78,Emily,Johnson,user78@example.com,18,HR Specialist,92440.79,2021-12-15,Seattle,2026-01-01 10:18:00
+79,David,Jones,user79@example.com,10,Software Engineer,54014.81,2020-03-11,New York,2026-01-01 10:19:00
+80,Maria,Johnson,user80@example.com,41,Software Engineer,60580.76,2021-08-30,Dallas,2026-01-01 10:20:00
+81,James,Jones,user81@example.com,20,HR Specialist,83516.05,2021-07-21,Chicago,2026-01-01 10:21:00
+82,John,Williams,user82@example.com,15,Software Engineer,89814.07,2019-03-23,New York,2026-01-01 10:22:00
+83,Emily,Jones,user83@example.com,30,HR Specialist,53994.81,2023-10-25,New York,2026-01-01 10:23:00
+84,James,Brown,user84@example.com,32,Software Engineer,81738.7,2021-11-23,Dallas,2026-01-01 10:24:00
+85,Sarah,Brown,user85@example.com,19,Software Engineer,99464.6,2021-03-25,Dallas,2026-01-01 10:25:00
+86,Lisa,Johnson,user86@example.com,12,Software Engineer,98215.82,2021-07-27,New York,2026-01-01 10:26:00
+87,John,Davis,user87@example.com,12,Software Engineer,52553.3,2023-09-29,Dallas,2026-01-01 10:27:00
+88,Michael,Davis,user88@example.com,31,Data Analyst,116061.24,2022-01-10,Seattle,2026-01-01 10:28:00
+89,Lisa,Smith,user89@example.com,42,HR Specialist,106771.45,2024-03-13,Seattle,2026-01-01 10:29:00
+90,Sarah,Miller,user90@example.com,24,HR Specialist,110681.22,2019-07-13,Seattle,2026-01-01 10:30:00
+10,Jane,DuplicateTest,dup10@example.com,17,Data Analyst,114981.23,2021-09-03,Dallas,2026-01-01 09:10:00
+20,Maria,DuplicateTest,dup20@example.com,44,Project Manager,56770.5,2021-01-12,Seattle,2026-01-01 09:20:00
+30,Maria,DuplicateTest,dup30@example.com,23,Software Engineer,74870.45,2021-06-03,Chicago,2026-01-01 09:30:00
+40,Michael,DuplicateTest,dup40@example.com,21,Project Manager,114801.52,2021-08-14,Chicago,2026-01-01 09:40:00
+50,Sarah,DuplicateTest,dup50@example.com,44,Data Analyst,95115.51,2023-02-01,Chicago,2026-01-01 09:50:00
+60,,Smith,bad1@example.com,20,Data Analyst,70000,2024-01-01,Chicago,2026-01-01 11:00:00
+61,  Sarah  ,Davis,bad2@example.com,20,Project Manager,80000,2024-01-02,  seattle  ,2026-01-01 11:01:00
+62,John,Brown,invalid-email,20,HR Specialist,75000,2024-01-03,Dallas,2026-01-01 11:02:00
+63,Emily,Jones,bad3@example.com,ABC,Software Engineer,90000,2024-01-04,New York,2026-01-01 11:03:00
+64,Lisa,Miller,bad4@example.com,30,Data Analyst,-5000,2024-01-05,Chicago,2026-01-01 11:04:00
+64,Lisa,Miller,bad4@example.com,30,Data Analyst,-5000,2024-01-05,Chicago,2026-01-02 11:04:00
